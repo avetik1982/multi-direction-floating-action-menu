@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="main_fab_margin">16dp</dimen>
+    <dimen name="sub_fab_margin">19dp</dimen>
+    <dimen name="main_fab_size">60dp</dimen>
+    <dimen name="sub_fab_size">56dp</dimen>
+</resources>
